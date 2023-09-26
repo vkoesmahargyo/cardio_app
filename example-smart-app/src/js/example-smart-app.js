@@ -81,6 +81,7 @@
       lname: {value: ''},
       gender: {value: ''},
       birthdate: {value: ''},
+      madeuplabel: {value: ''},
       height: {value: ''},
       systolicbp: {value: ''},
       diastolicbp: {value: ''},
